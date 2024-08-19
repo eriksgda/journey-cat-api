@@ -35,7 +35,7 @@ This project consists of an API developed in Java using the Spring Boot framewor
 - Clone this repository to your local environment:
 
 ```bash
-git clone https://github.com/eriksgda/System-Real-Estate-Financing.git
+git clone https://github.com/eriksgda/Journey-cat-api.git
 ```
 
 - Run the main program file:
