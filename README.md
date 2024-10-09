@@ -1,6 +1,6 @@
 <h1>Journey Cat API</h1>
 
-> Status: In Development ⚠️
+> status: finished ✔️
 
 _Read this in other languages:_
 [_Português_](./translations/README-ptBR.md)
@@ -41,7 +41,8 @@ git clone https://github.com/eriksgda/Journey-cat-api.git
 - Run the main program file:
 
 ```bash
-JourneyCatApplication.java
+mvn install
+mvn spring-boot:run
 ```
 
 ## License
